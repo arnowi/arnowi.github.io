@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /hoeken/
+Disallow: /workshops/
+Disallow: /fotos/
+Disallow: /thumb/
+Sitemap: http://www.marinaenwilfried.be/sitemap.xml
+

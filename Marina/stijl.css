@@ -1,0 +1,161 @@
+
+body, html {
+    margin:0;
+    padding:0 auto 0 auto;
+    color:#000;
+    background:#FFFFFF;
+	color:#444;
+	font-family:verdana, dejavu sans, free sans;
+}
+
+h1 {
+	color:#82695e;
+	font-size:1.2em;
+	text-decoration:overline;
+}
+
+h2 {
+	color:#82695e;
+	font-size:0.9em;
+	text-decoration:none;
+}
+
+table {
+	border-width: 0px;
+	border-spacing: 0px;
+	border-style: none;
+	border-color: gray;
+}
+
+th {
+	padding:0;
+	color:#455;
+	font-size:0.73em;
+	font-family:verdana, dejavu sans, free sans;
+	horizontal-align:left;
+	align: left;
+	vertical-align:top;
+	border-width: 1px;
+	padding: 1px;
+	border-style: solid;
+}
+
+td {
+	color:#444;
+	font-size:0.75em;
+	font-family:verdana, dejavu sans, free sans;
+	align:left;
+	vertical-align:top;
+	border-width: 1px;
+	padding: 1px;
+	border-style: solid;
+}
+
+p {
+	padding-left:25px;
+	color:#444;
+	font-size:0.9em;
+	font-family:verdana, dejavu sans, free sans;
+}
+
+a:visited {
+	color:#444;
+	font-family:verdana, dejavu sans, free sans;
+}
+
+a:hover {
+	color:#444;
+	font-family:verdana, dejavu sans, free sans;
+}
+
+a {
+	color:#444;
+	font-family:verdana, dejavu sans, free sans;
+}
+
+li {
+	color:#444;
+	font-size:1.1em;
+	font-family:verdana, dejavu sans, free sans;
+}
+
+#header {
+	color:#bcb563;
+	font-size:24pt;
+	font-family:Script, Alexander;
+}
+
+#footer {
+	background:url(Rozen.jpg);
+	width:750px;
+	height:150px;
+	clear:both;
+	margin: auto auto;
+	padding:0;
+	text-align:right;
+	font-size:0.5em;
+	color:#333;
+	font-family:verdana, dejavu sans, free sans;
+}
+
+#page {
+	width:750px;
+	margin:0 auto 0 auto;
+	background:#bcb563;
+}
+	
+#menu {
+	background:#bcb563; /*#5b9b5b; /*#7ce67c*/
+	float:left;
+	width:138px;
+	height:100%;
+	min-height:400px;
+	padding: 10px 0px 0px 20px;
+	font-family:Lucida Grande, Garuda;
+	font-size:0.9em;
+}
+
+#menu a {
+	font-family:Lucida Grande, Garuda;
+	color:#82695e; /*796b44*/
+	text-decoration:none;
+}
+
+#menu a:hover {
+	font-size:1.25em;
+	font-family:Lucida Grande, Garuda;
+	text-decoration:none;
+	color:#82695e;
+}
+
+#menu a:visited {
+	font-family:Lucida Grande, Garuda;
+	color:#82695e;
+	font-weight: 200;
+	text-decoration: none;
+}
+
+#content {
+	background-color: #e7e4be;
+	background-image: url(Bloem.png);	
+	background-repeat:no-repeat;
+	float:right;
+	padding:10px 10px 0px 20px;
+	width:562px;
+}
+
+ul {
+	font-size: 0.75em;
+	font-family: verdana, dejavu sans, free sans;
+	color:#444;
+}
+
+.rbroundbox { background: url(hoeken/nt.gif) repeat; }
+.rbtop div { background: url(hoeken/tl.gif) no-repeat top left; }
+.rbtop { background: url(hoeken/tr.gif) no-repeat top right; }
+.rbtop div, .rbtop{
+width: 100%;
+height: 20px;
+font-size: 1px;
+}
+.rbroundbox { width: 750px; margin: 20px auto 0 auto; }

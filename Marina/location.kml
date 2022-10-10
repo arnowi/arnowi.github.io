@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Marina en Wilfried</name>
+  <description><![CDATA[]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Veldkantstraat 125-127</name>
+    <description><![CDATA[1850 Grimbergen, Belgium<br><a href="http://maps.google.com/maps/place?ftid=0x47c3e829171a83ed:0x30ce1f48f1227508&amp;q=50.934831,4.380666&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=uENKT7KCDczujAfLjYHWBA&amp;sig2=C9Tfyu_hdSKAd9iPvoz4bw&amp;dtab=5"><img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=50.934850,4.380637&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>4.380637,50.934849,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
